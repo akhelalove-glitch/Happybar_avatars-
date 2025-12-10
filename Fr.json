@@ -1,0 +1,19 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Annuler"
+  },
+  "profile": {
+    "title": "Profil",
+    "subtitle": "Votre espace personnel"
+  },
+  "avatars": {
+    "title": "Choisis ton avatar",
+    "pack": {
+      "animal_neon": "Animal DJ Néon",
+      "default": "Classique"
+    },
+    "upload": "Importer",
+    "reset": "Réinitialiser"
+  }
+}
